@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.android.unscramble.app-mergeDebugResources-36:/layout/main_activity.xml",
+        "source": "com.example.android.unscramble.app-main-39:/layout/main_activity.xml"
+    },
+    {
+        "merged": "com.example.android.unscramble.app-mergeDebugResources-36:/layout/game_fragment.xml",
+        "source": "com.example.android.unscramble.app-main-39:/layout/game_fragment.xml"
+    }
+]
